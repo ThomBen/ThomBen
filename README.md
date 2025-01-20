@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thomas Ben</h1>
 <h3 align="center">A passionate fullstack developper from France</h3>
 
-- 🔭 I’m currently working on **a Gamebook Project**
+- 🔭 I’m currently working on an app which **aggregates useful tools to streamline trading and investment processes.**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Python**
 
 - 💬 Ask me about **Ruby on rails or javascript**
 
